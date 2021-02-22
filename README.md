@@ -20,4 +20,6 @@
   </a>
 </p>
 
-Aplicação de conceitos de paradigma funcional e programação reativa
+Aplicação de conceitos de paradigma funcional e programação reativa.
+
+Uma das vantagens em se trabalhar com programação funcional é que parte da responsabilidade é assumida pela própria linguagem, evitando por exemplo a necessidade em criar laços, variáveis, operações...
