@@ -1,5 +1,10 @@
 # JavaScript Funcional & Reativo
 
+<h1 align="center">
+    <img alt="JavaScript" title="#jsFuncionalReativo" src="sources/images/js.jpg" width="300px" />
+</h1>
+
+
 <p align="center">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DebAmorim/js_funcional_reativo">
