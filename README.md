@@ -23,3 +23,5 @@
 Aplicação de conceitos de paradigma funcional e programação reativa.
 
 Uma das vantagens em se trabalhar com programação funcional é que parte da responsabilidade é assumida pela própria linguagem, evitando por exemplo a necessidade em criar laços, variáveis, operações...
+
+Além disso, a composição de funções por meio da programação funcional deixa o código mais organizado.
