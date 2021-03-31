@@ -1,6 +1,6 @@
 //biblioteca do node para leitura de arquivo: file system
 const fs = require('fs');
-//biblioteca do note para caminhos de arquivos
+//biblioteca do node para caminhos de arquivos
 const path = require('path');
 
 //__dirname: dá o atual diretório
